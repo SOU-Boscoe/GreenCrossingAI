@@ -1,0 +1,10 @@
+data/*
+detection/*
+
+!data/Demo_Data
+!data/Demo_Data_Single
+!data/README.MD
+
+miniforge3/*
+MegaDetector_App/Models/*
+MegaDetector_App/MegaDetector/*
