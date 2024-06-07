@@ -1,0 +1,12 @@
+Stopping training early as no improvement observed in last 100 epochs. Best results observed at epoch 145, best model saved as best.pt.
+To update EarlyStopping(patience=100) pass a new patience value, i.e. `python train.py --patience 300` or use `--patience 0` to disable EarlyStopping.
+
+246 epochs completed in 0.980 hours.
+
+200 epochs completed in 0.851 hours.
+
+100 epochs completed in 0.406 hours.
+
+50 epochs completed in 0.213 hours.
+
+10 epochs completed in 0.046 hours.

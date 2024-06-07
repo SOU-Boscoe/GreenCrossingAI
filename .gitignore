@@ -1,0 +1,15 @@
+Data/*
+detection/*
+.virtual_documents/*
+GPU_power_logs
+jsons/*
+
+!MegaDetector_App/MegaDetector_GUI/*
+PMD-USB_20230809_1132/*
+!yolov5/Fisher_dataset/*
+!yolov5/wolves_dataset/data.yaml
+!yolov5/wolves_dataset/data2.yaml
+!yolov5/wolves_dataset500/wolves500/weights/best.pt
+!yolov5/change.py
+!yolov5/check_pt.py
+cameratraps-detector/*
